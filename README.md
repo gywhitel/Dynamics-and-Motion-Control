@@ -1,7 +1,3 @@
-# Matlab
-echo "# Matlab" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/gywhitel/Matlab.git
-git push -u origin master
+## Matlab application in
+- control system
+- image processing
